@@ -2,9 +2,11 @@
 
 ## California Housing dataset
 
-    Number of Instances: 20640
+This dataset was obtained from the StatLib repository.
+https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
 
-    Number of Attributes: 8 numeric, predictive attributes and the target
+Number of Instances: 20640
+Number of Attributes: 8 numeric, predictive attributes and the target
 
     Attribute Information:
         - MedInc        median income in block group
@@ -17,9 +19,6 @@
         - Longitude     block group longitude
 
     Missing Attribute Values: None
-
-This dataset was obtained from the StatLib repository.
-https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
 
 The target variable is the median house value for California districts,
 expressed in hundreds of thousands of dollars ($100,000).
