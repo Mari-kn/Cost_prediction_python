@@ -2,7 +2,6 @@
 
 ## Dataset
 California Housing dataset
---------------------------
 
 **Data Set Characteristics:**
 
