@@ -11,21 +11,21 @@ Number of Attributes: 8 numeric, predictive attributes and the target
 
 Attribute Information:
 
-- MedInc        median income in block group
-- 
-- HouseAge      median house age in block group
+- MedInc :       median income in block group
 
-- AveRooms      average number of rooms per household
-  
-- AveBedrms     average number of bedrooms per household
+- HouseAge :     median house age in block group
 
-- Population    block group population
+- AveRooms :    average number of rooms per household
   
-- AveOccup      average number of household members
+- AveBedrms :   average number of bedrooms per household
+
+- Population :   block group population
   
-- Latitude      block group latitude
+- AveOccup :    average number of household members
   
-- Longitude     block group longitude
+- Latitude  :    block group latitude
+  
+- Longitude  :   block group longitude
 
 Missing Attribute Values: None
 
