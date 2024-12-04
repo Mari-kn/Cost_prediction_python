@@ -1,9 +1,6 @@
 # Cost_prediction_python
 
-## Dataset
-California Housing dataset
-
-**Data Set Characteristics:**
+## California Housing dataset
 
     Number of Instances: 20640
 
